@@ -19,5 +19,6 @@ pip install matplotlib
 cd ~/Desktop                                                                    
 mkdir PhysicsWorkshop                                                           
 cd PhysicsWorkshop
+git clone git@github.com:ndeporzio/HarvardPreCollegePhysics.git
 
 
